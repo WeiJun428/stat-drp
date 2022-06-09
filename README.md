@@ -1,2 +1,2 @@
-# stat-drp
-This repository stores my final projects for Statistics Directed Reading Program Spring 2022
+# Statistics Directed Reading Program
+This repository stores all the files for Statistics Directed Reading Program Spring 2022
