@@ -1,0 +1,37 @@
+Hidden Markov Models (HMM)
+- Used in speech recognition
+	20 amino acids - 256 categories, protein family - words, insertion & deletion - time variation
+
+CpG Island - Deregulation of Island.
+- CG -> TG by methylation, rare
+- Methylation is suppressed in short stretches of genome, (e.g. promoter/start region), where more CG
+
+Markov Chain
+- Modelling beginning and end state as silent.
+- Adding end state models the length of sequence where length decays exponentially
+
+Markov Chain in Discrimination
+- Likelihood Ratio Test: assess the goodness of fit of two competing models
+- Get two markov, CpG island or not
+- Ask question about (3.3) formula confusing t'
+
+HMM
+- Enable variable length and sharp boundary
+- Two state: (+) and (-), with similar P but - a small P to switch state where (+) to (-) is greater so that overall more -
+
+Formal definition
+- state sequence = path = PI
+- Emission probability = P(xi | PI): Probability of b in state PI
+
+Casino
+- State of sequence is hidden
+- Can use HMM to generate/emit artifical sequences
+
+Viterbi Algorithm
+- Decode: Determine the underlying state
+- Use summation of log to simulate product of small P
+- Use DP to find the most probable path
+
+For example,
+From P(From C- to G+) = 0.1
+means Emission Probability P(prev_state = - and curr_state = +) * P(base = G given that curr_state = +) given that previous base = C

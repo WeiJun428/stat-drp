@@ -1,0 +1,112 @@
+Genome - complete inventory of all DNA that determines the identity of an organism
+
+Prokaryotic - eubacteria and archaebacteria and Eukaryotic. Simple with nucleoid | Complex with true nucleus and membrance bounded organelles.
+
+Model Organism is convenient. Model
+
+Cells needs glucose and inorganic salt + amino acids and vitamins
+
+Inheritance
+P - haploid v.s. E - diploid, bp = base pairs of DNA
+
+Meiosis and Mitosis
+- Homologous Recombination
+- Metaphase I/anaphase I leads to separation of homologous chromosomes,
+- while metaphase II /anaphase II leads to separation of sister chromatids.
+
+The genetic map records the order of genes and the approximate distances between them on their respective chromosomes.
+
+Centimorgan - recombination frequencies of 1% - two markers or genes that appear together on the same chromosome are separated from each other by recombination at a frequency of 0.01 during meiosis.
+
+Haplotype - Gnetically-linked genes are very close and tend to inherit together, persist for long time.
+
+Conserved synteny/segment/block are haplotypes shared by two species of same ancestors. Compared genomes and blocks are signatures of evolutions seperating them from ancestor.
+
+Low-frequency error - mutation in a gene.
+
+Gene - unit of inheritance. Location - locus
+
+Character / Phenotype = Eye Color / Red
+
+Coding / Template Strand = Corresponding / Complementary
+
+Promoter initiates transcription
+
+Exons has gene translate to Amino Acid, Introns in between
+
+Netural selection favors some genotypes
+
+Problems - genetic variation within and between population, Trajectory of variation over time (Molecular evolution)
+
+All organism shares the ancestor.
+
+E's genomes - mitochondrial, nuclear, and chloroplast
+
+DNA - made from deoxyribo-nucleotides, very long
+Adenine, thymine, cytosine and guanine
+
+RNA - Hydroxyl, Uracil replace Thymine
+
+Protein - 3-letter abbr. - amino acids residue. 300 - 400 residue in  poltpeptides
+- Primary, secondary (alpha helix and beta pleated), tertiary, quarternary
+
+Codon - code triplet to encode 20 natural amino acids.
+
+Stop: UAG, UGA, and UAA.
+
+Start: AUG
+
+One amino acids has more encodings
+
+open reading frames (ORF) contains no stop codons.
+
+Normally, 21 has one stop. Longer implies possible protein coding region.
+
+(1) an AUG start codon followed by 
+(2) an ORF long enough to code polypeptide (> 50 amino acid residues) and having 
+(3) the characteristic codon usage frequencies.
+
+polymerase chain reaction (PCR) employs in vitro enzymatic DNA synthesis in repeated cycles to amplify DNA (has error)
+
+The cloning vector is a DNA molecule chosen to have appropriate replication properties (copy number, control of copy number), insert size, and host specificity (vectors must be matched to the host cell) for producing the desired amount and length of DNA product.
+
+Genome as colections of clones - libraries.
+
+mRNA is sensitive to alkaline hydrolysis and stable ribonucleases in cells big problem.
+
+cDNA - DNA copy reverse-transcribed from mRNA
+
+Rare protein is hard to amplify
+
+Can clone its coding sequence (from cDNA) onto expression vector (with promoter and sequences specifying
+the addition of polyA to transcripts.) May not be properly processed, folded, glycosylated, or
+assembled if it is expressed in a nonnative cell type.
+
+Hard to seperate, might lose biological activity. Denature easily. Hydrophbic is hard to purify and dissolve.
+
+Two-dimensional polyacrylamide gel electrophoresis (2DE)
+
+Molecular mass and isoelectric point (pH - average charge = 0)
+
+Isoelectric focusing resolves into a series of bands depends on IP.
+Equilibrate with SDS detergent
+Electrophoresis resolve mass.
+Viz using autoradiography or phosphorimaging
+
+Detect proterin is hard except using antibody.
+
+Hard to produce antigen and antibody.
+
+Injection of antigen into animal forms polyclonal antibody.
+
+Questions:
+– Characterizing the genome;
+– Identifying patterns of gene expression and protein abundance under different
+conditions;
+– Discovering mechanisms for controlling gene expression and the biochemical
+reactions in the cell.
+
+The transcriptome is the entire collection of transcripts, and the proteome is the entire collection of proteins for a particular cell and set of conditions.
+
+Identify binding site of DNA using gel-shift or footprinting
+

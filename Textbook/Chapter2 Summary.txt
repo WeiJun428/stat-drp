@@ -1,0 +1,45 @@
+k-word / tuple
+
+k = 1 
+
+Duplex DNA
+- fr(A) = fr(T), fr(C) = fr(G), fr(A + T) = 1 - fr(C + G)
+- GC 3 hydrogen bond and AT means 2 bond.
+
+Leading strand - replicated from 5' to 3' direction (5th carbon to 3rd carbon)
+- GC skew where G > C
+- determine location of replication origin and termini in prokaryotic
+
+Probability Distribution for Discrete Random Variable
+- X is probability, L is the sequence itself
+
+Independece
+- Mulitplication rules for probability
+
+Independent and identically distributed (iid)
+- Random variables that are independent and having the same distribution 
+
+Expected Value and Variances: a lot of formula
+
+Binomial distribution
+
+Simulation using pseudorandom numbers. Partition 0 to 1 into each possible values
+
+k = 2
+- describe the trajectory of DNA bending, which affects the gene expression
+
+Markov Chain
+- k-order markov chain if it depends on the previous k entry.
+- row: t th entry, column: (t + 1) th entry
+- transition/markov matrix and initial probability distribution PI
+
+-stationary distribution if PI = PI * P
+
+k = 3: codons
+- Gene class 1 expressed at moderate level where class 2 expressed at high level.
+- class 1 fits reasonably well to naive independent model but class 2 differs a lot
+
+Codon Adaptation Index
+- Product of 
+	codon used to code for the amino acids in highly expressed genes /
+	the most frequently used codon of the corresponding amino acid in highly expressed genes
